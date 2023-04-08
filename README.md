@@ -1,9 +1,9 @@
-# ยิงเบอร์ฟรี By EH STORE
+# SMS ยิงเบอร์
 
-# อ่านตรงนี้ก่อนนนน
+# วิธีเริ่มใช้งานใหม่
 
 <br><br>
-**ติดตั้งตำสั่งผู้ใช้ใหม่**:<br>
+**1.ติดตั้งตำสั่งผู้ใช้ใหม่**:<br>
 ```
 pkg update -y
 pkg upgrade -y
@@ -11,7 +11,7 @@ pkg install git
 pkg install python
 ```
 <br><br>
-**ติดตั้งไฟล์ลง TERMUX**:<br>
+**2.ติดตั้งไฟล์ลง TERMUX**:<br>
 ```
 git clone https://github.com/EH4404/freefc
 
@@ -19,7 +19,7 @@ cd freefc
 ```
 <br><br>
 
-**รันไฟล์ยิงเบอร์**:<br>
+**3.โค๊ดยิงเบอร์**:<br>
 ```
 pip install -U -r requirements.txt
 
@@ -27,8 +27,6 @@ python main.py
 ```
 <br><br>
 
-<p align="center">🤘 เครดิต 🤘</p>
+<p align="center">Youtube </p>
 
-* <a href="https://youtube.com/channel/UCdaBhAIBlxdg1_8D0mfB1SA">YouTube</a>
-
-* <a href="https://www.facebook.com/EH.STORE999">Facebook</a>
+* <a href="https://www.youtube.com/@igodmod.Hacker">YouTube</a>
